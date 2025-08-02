@@ -2,6 +2,8 @@
 
 This project implements a Python function that determines how robotic arms in Thoughtful's automation factory should dispatch packages based on their **size** and **weight**.
 
+[Run it on Replit](https://replit.com/new/python3)
+
 ---
 
 ## 🧠 Objective
