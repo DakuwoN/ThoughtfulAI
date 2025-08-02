@@ -40,7 +40,7 @@ def sort(width, height, length, mass):
 # print(sort(10, 10, 10, 25))  # 1000 cm³, 25 kg → Expected: "SPECIAL"
 # print(sort(200, 200, 200, 30))  # Massive volume and 30 kg → Expected: "REJECTED"
 
-# ✅ Sample test cases
+# Sample test cases
 if __name__ == "__main__":
     print(sort(10, 10, 10, 5))       # STANDARD
     print(sort(100, 100, 100, 10))   # SPECIAL (bulky)
